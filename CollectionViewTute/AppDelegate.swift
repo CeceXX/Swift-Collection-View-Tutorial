@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  CollectionViewTute
+//  CollectionViewTutorial
 
 import UIKit
 
